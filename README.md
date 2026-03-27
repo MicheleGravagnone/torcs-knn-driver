@@ -69,7 +69,7 @@ The agent approximates continuous control by classifying the current state into 
 ##  How to Run
 
 ### Prerequisites
-1. Install [TORCS](https://torcs.sourceforge.net/) and the SCR (Simulated Car Racing) Server patch.
+1. Install [TORCS](https://sourceforge.net/projects/torcs/) and the SCR (Simulated Car Racing) Server patch.
 2. Ensure the training dataset (`driving_data.csv`) is placed in the project root.
 
 ### Compiling the Client
