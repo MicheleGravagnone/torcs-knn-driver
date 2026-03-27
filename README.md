@@ -72,13 +72,6 @@ The agent approximates continuous control by classifying the current state into 
 1. Install [TORCS](https://torcs.sourceforge.net/) and the SCR (Simulated Car Racing) Server patch.
 2. Ensure the training dataset (`driving_data.csv`) is placed in the project root.
 
-### Execution
-1. Start the TORCS server in quick race mode.
-2. Compile the Java project.
-3. Run the client using the command line, specifying the controller class and port:
-   ```bash
-   java scr.Client host:localhost port:3001 id:SCR maxEpisodes:1 scr.KnnDriver
-
 ### Compiling the Client
 
 1. Access the src folder through terminal.
