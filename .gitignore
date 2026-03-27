@@ -36,3 +36,4 @@ target/
 
 # Extras
 _MACOSX/
+.DS_STORE
